@@ -1,0 +1,5 @@
+/input/*
+!/input/.keep
+
+/target/*
+!/target/.keep
