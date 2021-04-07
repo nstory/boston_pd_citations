@@ -1,14 +1,6 @@
 require "ostruct"
 require "roo"
 
-# require "bundler/inline"
-
-# gemfile do
-#   source 'https://rubygems.org'
-#   gem "roo", "2.8.3"
-#   gem "pry"
-# end
-
 def roster_from_xlsx(xlsx_file, sheet)
   sheet = Roo::Spreadsheet.open(xlsx_file).sheet(sheet)
   sheet.each
