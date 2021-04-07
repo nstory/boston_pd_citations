@@ -1,5 +1,7 @@
 /input/*
 !/input/.keep
 
-/target/*
-!/target/.keep
+/output/*
+!/output/.keep
+
+/env.list
