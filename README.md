@@ -1,5 +1,5 @@
 # Boston Police Citations
-Traffic Citations written by Boston Police from 2011 to 2020.
+Traffic Citations written by Boston Police from 2011 to 2020. See [the blog post](https://blog.wokewindows.org/2021/04/24/boston-traffic-citations.html).
 
 ## Download
 **TL;DR** you will want to download one of these files; each contains all traffic citations written by Boston Police from 2011 to 2020 and include the name of the officer who wrote each ticket.
